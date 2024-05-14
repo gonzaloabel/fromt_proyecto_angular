@@ -16,3 +16,8 @@ git init
 ```
 git remote add origin https://github.com/gonzaloabel/fromt_proyecto_angular.git
 ```
+
+### Para Actualizar cambios
+```
+git push
+```
